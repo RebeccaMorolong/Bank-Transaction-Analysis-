@@ -8,6 +8,9 @@ This project analyzes bank transaction data to identify customer spending habits
 - Detect large or suspicious transactions
 - Analyze spending behavior changes over time
 
+## SQL Skills: 
+- Pattern recognition, categorization, time filters
+
 ## 🧱 Schema
 - `customers`: Customer info and account data
 - `merchants`: Merchant categories and details
